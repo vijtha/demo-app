@@ -1,4 +1,4 @@
 a=1
-b=15
+b=35
 c=a+b
 print (c)
